@@ -26,4 +26,5 @@
 
 3- **Bar Chart between Breast Fet and Diabetes**
 ![download](https://github.com/itsahmedmohamedamin/Health-Care-Analytics-Predict-Diabetes/assets/50253297/6ee684d4-4580-49bc-b1bb-eb41df21470b)
-**Most people has Breast Fet 2 and most of them doesn't have diabetes**
+
+> **Most people has Breast Fet 2 and most of them doesn't have diabetes**
