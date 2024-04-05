@@ -23,3 +23,7 @@
 1- **Individuals with a GlycoHemoglobin level ranging from 3 to 6 are considered to not have diabetes. Those with an GlycoHemoglobin level between 6 and 7 are classified as having diabetes at Level 1, while individuals with an GlycoHemoglobin level between 7 and 18 are categorized as having Level 2 diabetes.**
 
 2- **Individuals with elevated levels of GlycoHemoglobin level typically present with normal or near-normal sagittal abdominal dimensions. The peak incidence of sagittal abdominal measurement occurs in individuals with HbA1c levels between 4 and 8.**
+
+3- **Bar Chart between Breast Fet and Diabetes**
+![download](https://github.com/itsahmedmohamedamin/Health-Care-Analytics-Predict-Diabetes/assets/50253297/6ee684d4-4580-49bc-b1bb-eb41df21470b)
+**Most people has Breast Fet 2 and most of them doesn't have diabetes**
